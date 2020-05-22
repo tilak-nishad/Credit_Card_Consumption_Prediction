@@ -1,1 +1,1 @@
-# Credit_Card_Consumption_Prediction
+# credit_card_consumption_prediction
